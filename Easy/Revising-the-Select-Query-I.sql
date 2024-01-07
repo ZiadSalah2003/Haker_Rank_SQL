@@ -1,4 +1,4 @@
---Problem Link:https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
---Solution Link:https://www.hackerrank.com/challenges/revising-the-select-query/submissions/code/358953785
+--Problem Link : https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
+--Solution Link : https://www.hackerrank.com/challenges/japanese-cities-attributes/submissions/code/363763844
 select * from city
-where countrycode ='USA' and population >100000;
+where COUNTRYCODE = JPN;
